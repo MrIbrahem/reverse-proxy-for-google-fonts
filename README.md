@@ -1,3 +1,5 @@
+[English](./README.md) | [العربية](./README-ar.md)
+----
 # Full Local Reverse Proxy Setup for `fonts.gstatic.com` Using IIS on Windows
 
 > **Note:** In Yemen, the domain `fonts.gstatic.com` is blocked by the main ISP **YemenNet**.
@@ -134,4 +136,3 @@ The request will go through your **local IIS reverse proxy**, which then fetches
 
 ---
 - For detailed instructions on setting up the mirror site, see the [Build Guide](BUILD.md).
-- For the Arabic version of this guide, see [README-ar.md](README-ar.md).
