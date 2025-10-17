@@ -133,4 +133,5 @@ The request will go through your **local IIS reverse proxy**, which then fetches
 * You can use the local mirror transparently without modifying HTML/CSS font URLs.
 
 ---
-
+- For detailed instructions on setting up the mirror site, see the [Build Guide](BUILD.md).
+- For the Arabic version of this guide, see [README-ar.md](README-ar.md).
